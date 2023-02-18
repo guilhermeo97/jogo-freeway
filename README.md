@@ -1,4 +1,4 @@
-# jogo-freeway
+# jogo Freeway
 Desenvolvimento de um jogo clássico para estudar lógica de programação.
 
 O que aprendi: movimentar e mostrar carros e ator, computar e mostrar placar através do JavaScript.
